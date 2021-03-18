@@ -39,7 +39,7 @@ plt.show()
 
 # load trained model
 
-model = load_model('/Users/mfiedler/pythonProject4/model_save/mnist.1')
+model = load_model('/Users/mfiedler/pythonProject4/model_save/mnist.h5')
 
 
 drawing = False
